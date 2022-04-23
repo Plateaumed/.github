@@ -8,3 +8,11 @@
 
 ✔️ Designed by health care professionals  
 ✔️ Priced for African healthcare
+
+## Core Features of PlateauMed EMR
+
+### Clinical Features
+    
+| Clinician modules | Specialty coverage | Clinical decision support | Pharmacy & lab modules |
+| ----------- | ----------- | ----------- | ----------- |
+| Nursing and doctor screens for inpatient and outpatient records | Obstetrics & gynaecology, paediatrics, surgery and anaesthesia | Medication and adverse drug reaction notifications | Auto receipts of lab requests and results, prescriptions, and inventory managements |
