@@ -16,3 +16,9 @@
 | Clinician modules | Specialty coverage | Clinical decision support | Pharmacy & lab modules |
 | ----------- | ----------- | ----------- | ----------- |
 | Nursing and doctor screens for inpatient and outpatient records | Obstetrics & gynaecology, paediatrics, surgery and anaesthesia | Medication and adverse drug reaction notifications | Auto receipts of lab requests and results, prescriptions, and inventory managements |
+    
+### Administrative Features
+    
+| Hospital administration | Patient engagement | Planning & communication |
+| ----------- | ----------- | ----------- |
+| HR management (postings, scheduling, leave tracking) | Via patient app and USSD channels | Messaging and calendar functions across the care team |
