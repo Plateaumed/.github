@@ -1,4 +1,4 @@
-![plateaumed logo](https://plateaumed.com/wp-content/themes/plateaumed-holding/assets/img/logo.svg)
+[![plateaumed logo](https://plateaumed.com/wp-content/themes/plateaumed-holding/assets/img/logo.svg)](https://plateaumed.com/)
 <p> 📞 +234 818 8444 555 &nbsp;  &nbsp;  &nbsp;  &nbsp;   📫 hello@plateaumed.com </p>
 
 <h1 style="color: #FA8F12;">
@@ -22,3 +22,9 @@
 | Hospital administration | Patient engagement | Planning & communication |
 | ----------- | ----------- | ----------- |
 | HR management (postings, scheduling, leave tracking) | Via patient app and USSD channels | Messaging and calendar functions across the care team |
+    
+### Financial & Data Analytics
+    
+| Financial management | Analytics |
+| ----------- | ----------- |
+| Revenue collection and payment tracking | Dashboards for clinical and non-clinical metrics |
