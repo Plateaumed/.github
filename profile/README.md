@@ -1,4 +1,4 @@
-[![plateaumed logo](https://plateaumed.com/wp-content/themes/plateaumed-holding/assets/img/logo.svg)](https://plateaumed.com/)
+[![plateaumed logo](https://uploads-ssl.webflow.com/642edec4e2e58d65da0f7b25/643589323fb1f832e1d67945_mobile-logo.webp)](https://plateaumed.com/)
 <p> 📞 +234 818 8444 555 &nbsp;  &nbsp;  &nbsp;  &nbsp;   📫 hello@plateaumed.com </p>
 
 <h1 style="color: #FA8F12;">
